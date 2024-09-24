@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Bharat",
+        "capital": "New Delhi",
+        "population": 1393409038,
+        "interesting_facts": [
+            "Bharat is the world's largest democracy.",
+            "It has 22 officially recognized languages.",
+            "The game of chess originated in India."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Russia",
+        "capital": "Moscow",
+        "population": 145912025,
+        "interesting_facts": [
+            "Russia is the largest country in the world by land area.",
+            "It spans 11 time zones.",
+            "Lake Baikal is the deepest and oldest freshwater lake."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "South Africa",
+        "capital": "Pretoria",
+        "population": 59308690,
+        "interesting_facts": [
+            "South Africa is known as the 'Rainbow Nation' due to its diverse cultures.",
+            "It is home to the world's largest diamond producer.",
+            "Table Mountain is one of the New7Wonders of Nature."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Cuba",
+        "capital": "Havana",
+        "population": 11326616,
+        "interesting_facts": [
+            "Cuba has a high literacy rate of over 99%.",
+            "The country is famous for its vintage cars.",
+            "Cigars from Cuba are considered some of the best in the world."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "North Korea",
+        "capital": "Pyongyang",
+        "population": 25870000,
+        "interesting_facts": [
+            "North Korea is known for its strict government control and isolation.",
+            "It has a unique calendar system based on the birth of Kim Il-sung.",
+            "The country is home to the world's largest stadium, Rungrado 1st of May Stadium."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "population": 126190788,
+        "interesting_facts": [
+            "Mexico has the largest pyramid in the world, the Great Pyramid of Cholula.",
+            "It is the birthplace of chocolate, chilies, and corn.",
+            "The country has 34 UNESCO World Heritage Sites."
+        ]
+    }
+]
